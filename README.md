@@ -5,6 +5,7 @@ This toolbox performs a graph approach analysis by calculating the connections o
 
 
 Please cite :
+
 @article{grady2016age,
   title={Age differences in the functional interactions among the default, frontoparietal control, and dorsal attention networks},
   author={Grady, Cheryl and Sarraf, Saman and Saverino, Cristina and Campbell, Karen},
@@ -14,4 +15,5 @@ Please cite :
   year={2016},
   publisher={Elsevier}
 }
+
 "Grady, Cheryl, Saman Sarraf, Cristina Saverino, and Karen Campbell. "Age differences in the functional interactions among the default, frontoparietal control, and dorsal attention networks." Neurobiology of Aging 41 (2016): 159-172."
