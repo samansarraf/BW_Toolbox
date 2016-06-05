@@ -1,8 +1,9 @@
 # BW_Toolbox
 B/W : A Graph Analysis Toolbox
 B/W Toolbox instructions:
-This toolbox performs a graph-based approach analysis by calculating the connections of ROIs between and within networks. It outputs an excel file per subjec, a summary and a MATLAB struture that are described in the instruction. Using the output files, you will be able to perform your designed statistical analyeses (please read our paper). In future, some stats modules might be added to the current code. This toolbox can be used for any type of data (neuroimaging ...) as long as the input files are correctly prepared.
+This toolbox performs a graph-based approach analysis by calculating the connections of ROIs between and within networks. It outputs an excel file per subject, a summary and a MATLAB structure that are described in the instruction. Using the output files, you will be able to perform your designed statistical analyses (please read our paper). In future, some statistical modules might be added to the current code. This toolbox can be used for any type of data (neuroimaging, social medical, telecom ...) as long as the input files are correctly prepared according to the instruction. 
 You can clone this repository using cutting-edge technology :
+
 
 git clone https://github.com/samansarraf/BW_Toolbox.git
 
